@@ -1,0 +1,24 @@
+# Edit Stuff for CTF!
+guild_url: "https://www.liverpoolguild.org/groups/cyber-security"
+cybersoc_url: "https://www.cybersoc.cf/"
+## Settings
+title: NotWest CTF
+owner: "CyberSoc"
+url: "https://ctf.cybersoc.cf"
+baseurl: "/"
+permalink: /:title/
+description: ""
+markdown: kramdown
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+## Global Variables
+discord: "https://discordapp.com/invite/p6qGd3D"
+github: "michalani/michalani-pRoJEct-NeGYa"
+# path to: css/, fonts/, img/ and js/
+assets_path: "/assets" # i.e. "/assets" 
+statement: "Designed by DeerRIDER / Modified by CyberSoc"
+# default max toc levels: 1 - 6 (h1 - h6)
+toc_level: 3
+# texts randomly displayed in background
+bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"

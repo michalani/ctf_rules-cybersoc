@@ -14,8 +14,8 @@ permalink: /
 Welcome to the <span style="color:yellow">**{CTFName} CTF**</span>
 
 # Prizes
-* The highest scoring player will win £15 in Amazon Vouchers!
-* There will also be a £15 worth of mystery prize available.
+* The highest scoring player will win {reward}!
+* There will also be a {reward2}.
 
 # Rules
 1. Do not hack/compromise anything that isnt explicitly part of the ctf, this includes not hacking the website hosting the challenges. CyberSoc, The University of Liverpool, and all affiliates are not responsible for your actions if you ignore this rule!

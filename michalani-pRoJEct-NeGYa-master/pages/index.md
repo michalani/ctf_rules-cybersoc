@@ -5,13 +5,13 @@ toc: false
 home_btn: true
 btn_text: true
 footer: true
-title: "NOT WEST"
+title: "{CTFName}"
 author: ""
 encrypted_text: true
 permalink: /
 ---
-# <span style="color:yellow">NOTWEST ctf</span>
-Welcome to the <span style="color:yellow">**NOT WEST CTF**</span>
+# <span style="color:yellow">{CTFName} ctf</span>
+Welcome to the <span style="color:yellow">**{CTFName} CTF**</span>
 
 # Prizes
 * The highest scoring player will win £15 in Amazon Vouchers!
@@ -28,10 +28,10 @@ Welcome to the <span style="color:yellow">**NOT WEST CTF**</span>
 ** Failure to follow the above rules will disqualify you from winning prizes **
 # Info
 Enjoyed yourself? Join CyberSoc for just £3 on the [**guild website**]({{ site.guild_url }})! Join our [Discord]({{ site.discord }}) too and be kept updated about upcoming events!
-<!-- Flags will be submitted on (WEBSITE) -->
+<!-- Flags will be submitted on {WEBSITE} -->
 <br>
 <br>
 <br>
-<a style="font-size:4em;" href="https://tryhackme.com/jr/notwest">CLICK ME FOR CTF</a><br>
+<a style="font-size:4em;" href="#">START CTF HERE</a><br>
 <a stlye="font-size:2em;" href="https://www.cybersoc.cf/resources/">Helpful tools</a>
 
